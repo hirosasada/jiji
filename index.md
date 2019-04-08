@@ -3,9 +3,9 @@
 - 第１週：講義ノート  
 - 第2週：講義ノート・[読書課題](https://drive.google.com/open?id=1nJTuVyzsNeji32kd6hIdtHFEYvG1xxZm)  
 - 第3週：講義ノート・[読書課題](https://drive.google.com/open?id=1ogSq9EkiDFhUuk7cFi6T1H6g8gRnjSJ7)  
-- 第4週：講義ノート・読書課題  
-- 第5週：講義ノート・読書課題  
-- 第6週：講義ノート・読書課題  
+- 第4週：講義ノート・[読書課題](https://drive.google.com/open?id=1GTYJTzPSirVsGnW9IFYbIOmszqpJhLAu)  
+- 第5週：講義ノート・[読書課題](https://drive.google.com/open?id=1xdtOvnbKj5GXJqrRCsgNI2-m-r7NX0Mj)  
+- 第6週：講義ノート・[読書課題](https://drive.google.com/open?id=15nBFxIvRsr4myJGv-o2-J6O_cVYxCCHQ)  
 - 第7週：中間テスト  
 - 第8週：講義ノート・読書課題  
 - 第9週：講義ノート・読書課題  
