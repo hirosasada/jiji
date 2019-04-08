@@ -6,7 +6,7 @@
 - 第4週：講義ノート・[読書課題](https://drive.google.com/open?id=1GTYJTzPSirVsGnW9IFYbIOmszqpJhLAu)  
 - 第5週：講義ノート・[読書課題](https://drive.google.com/open?id=1xdtOvnbKj5GXJqrRCsgNI2-m-r7NX0Mj)  
 - 第6週：講義ノート・[読書課題](https://drive.google.com/open?id=15nBFxIvRsr4myJGv-o2-J6O_cVYxCCHQ)  
-- 第7週：中間テスト  
+- 第7週：<font color="Red">中間テスト</font>  
 - 第8週：講義ノート・読書課題  
 - 第9週：講義ノート・読書課題  
 - 第10週：講義ノート・読書課題 
@@ -14,4 +14,4 @@
 - 第12週：講義ノート・読書課題 
 - 第13週：講義ノート・読書課題  
 - 第14-15週：プレゼンテーション  
-- 第16週：期末テスト  
+- 第16週：<font color="Red">期末テスト</font>    
