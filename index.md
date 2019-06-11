@@ -8,7 +8,7 @@
 - 第5週：[講義ノート](https://drive.google.com/open?id=1lHU6Xv9lMERT7bgBuE5I_WqolHlJ6gK2)・[読書課題](https://drive.google.com/open?id=1xdtOvnbKj5GXJqrRCsgNI2-m-r7NX0Mj)  
 - 第6週：[講義ノート](https://drive.google.com/open?id=1DqBx-y-t-XcRanthvET66rEl7qjoEaHA)・[読書課題](https://drive.google.com/open?id=15nBFxIvRsr4myJGv-o2-J6O_cVYxCCHQ)  
 - 第7週：<font color="Red">中間テスト</font>  
-- 第8週：講義ノート・[読書課題](https://drive.google.com/open?id=1JnbkZazDEy42LrpmOD7Kmvk-pRh3weUC)  
+- 第8週：[講義ノート](https://drive.google.com/open?id=12ItSwD8v7teXe1KEucIoRUJ1qBf7FQOu)・[読書課題](https://drive.google.com/open?id=1JnbkZazDEy42LrpmOD7Kmvk-pRh3weUC)  
 - 第9週：講義ノート・[読書課題](https://drive.google.com/open?id=15zzyWMtj0lUefgJv_U3xosmZIeyJiJCy)    
 - 第10週：講義ノート・読書課題 
 - 第11週：講義ノート・読書課題  
