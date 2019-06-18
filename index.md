@@ -11,8 +11,8 @@
 - 第8週：[講義ノート](https://drive.google.com/open?id=12ItSwD8v7teXe1KEucIoRUJ1qBf7FQOu)・[読書課題](https://drive.google.com/open?id=1JnbkZazDEy42LrpmOD7Kmvk-pRh3weUC)  
 - 第9週：講義ノート・[読書課題](https://drive.google.com/open?id=15zzyWMtj0lUefgJv_U3xosmZIeyJiJCy)    
 - 第10週：講義ノート・[読書課題](https://drive.google.com/open?id=19uqYW9p8O6lyKWJxUwY-1e_ZVpQzdL36)  
-- 第11週：講義ノート・読書課題  
-- 第12週：講義ノート・読書課題 
-- 第13週：講義ノート・読書課題  
+- 第11週：講義ノート・[読書課題](https://drive.google.com/open?id=1sKh655ptY-e-vvPXnhBumS1gQqpL4Zlr)  
+- 第12週：講義ノート・[読書課題] 
+- 第13週：講義ノート・[読書課題]  
 - 第14-15週：プレゼンテーション  
 - 第16週：<font color="Red">期末テスト</font>    
