@@ -13,6 +13,6 @@
 - 第10週：[講義ノート](https://drive.google.com/open?id=18FZERRqzAQTzN0U7q19259X9_nBYxp03)・[読書課題](https://drive.google.com/open?id=19uqYW9p8O6lyKWJxUwY-1e_ZVpQzdL36)  
 - 第11週：[講義ノート](https://drive.google.com/open?id=1DUNgJ0Ras1I_wRMToG-ZdG_F32TneQq0)・[読書課題](https://drive.google.com/open?id=1sKh655ptY-e-vvPXnhBumS1gQqpL4Zlr)  
 - 第12週：[講義ノート](https://drive.google.com/open?id=1KhjsH9kaDeNkS9Zj8fj8jbZSiKRfQgYW)・[読書課題](https://drive.google.com/open?id=1hcuiKXQb-PJ8Bap0fIAaexoxCcEHHjRq)  
-- 第13週：講義ノート・[読書課題](https://drive.google.com/open?id=1-dJAfX8zZs7zJFVi2HnADoygkzGCjBxS)  
+- 第13週：[講義ノート](https://drive.google.com/open?id=1fAYkYdOoeNUGDGUAsaAeFWfOUK-FWfhx)・[読書課題](https://drive.google.com/open?id=1-dJAfX8zZs7zJFVi2HnADoygkzGCjBxS)  
 - 第14-15週：プレゼンテーション  
 - 第16週：<font color="Red">期末テスト</font>    
